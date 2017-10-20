@@ -3,7 +3,7 @@
  * created 08.31.2017 by CB Fay
  */
 
-public class binarycounter
+public class BinaryCounter
 {
     public static void main(String[] args)
 	{
