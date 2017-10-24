@@ -3,7 +3,7 @@
 	-	Show square roots of 1 to 99 and the rounding error
 	-	Created 09.08.2017 by CB Fay
 */
- class p21_SqrRoot
+ class SqrRoot
  {
 	 public static void main(String args[])
 	 {
