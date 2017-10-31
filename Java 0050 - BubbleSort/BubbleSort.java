@@ -1,6 +1,6 @@
 /*
 	-	Uses bubble sort to sort an array of 10 ints
-	- ".length" is extremely important
+	-	".length" is extremely important
 	-	Created 09.20.2017 by CB Fay
 */
 
