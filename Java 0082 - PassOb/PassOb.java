@@ -1,6 +1,6 @@
 /*
 	-	From pg 189 of "Java: A Beginner's Guide - Sixth Edition" 
-	-	Passing an object as a paremter to a method
+	-	Passing an object as a parameter to a method
 	-	Created 10.03.2017 by CB Fay
 */
 
