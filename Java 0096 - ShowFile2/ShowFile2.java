@@ -1,7 +1,7 @@
-/* 	
+/** 	
  * From pg. 345 of "Java: A Beginner's Guide - Sixth Edition"
  * Use try-with-resources to automatically release a file
- * Created 11.03.2017 by CB Fay
+ * Created 11.14.2017 by CB Fay
  */
 
 import java.io.*;
