@@ -1,5 +1,5 @@
 /**
- * Implement an algorithm to determine if a string has all unique characters. 
+ * An algorithm that determines if a string has all unique characters. 
  * What if you cannot use additional data structures?
  * From pg 90 Gayle Laakman McDowell's "Cracking the Coding Interview"
  * Created 11.13.2017 by CB Fay
